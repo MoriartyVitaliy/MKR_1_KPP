@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MRK.Library", "MRK.Library\MRK.Library.csproj", "{DB38E638-719E-4A50-8218-07EE4A49C187}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKR.Console", "MKR.Console\MKR.Console.csproj", "{0D8ACD3F-CE0E-45B4-B08F-B360B45B6621}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MKR.Console", "MKR.Console\MKR.Console.csproj", "{0D8ACD3F-CE0E-45B4-B08F-B360B45B6621}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MKR.Tests", "MKR.Tests\MKR.Tests.csproj", "{B571F58B-4AA0-43F1-B4A8-B32A199CD4A1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{0D8ACD3F-CE0E-45B4-B08F-B360B45B6621}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D8ACD3F-CE0E-45B4-B08F-B360B45B6621}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D8ACD3F-CE0E-45B4-B08F-B360B45B6621}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B571F58B-4AA0-43F1-B4A8-B32A199CD4A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B571F58B-4AA0-43F1-B4A8-B32A199CD4A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B571F58B-4AA0-43F1-B4A8-B32A199CD4A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B571F58B-4AA0-43F1-B4A8-B32A199CD4A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
